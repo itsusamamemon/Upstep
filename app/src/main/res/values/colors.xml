@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#52B4C7</color>
+    <color name="colorPrimaryDark">#3599AC</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorBlack">#000</color>
+    <color name="colorBlackOpac">#AE000000</color>
+    <color name="facbook">#3B5998</color>
+    <color name="MyGrey">#616161</color>
+</resources>
